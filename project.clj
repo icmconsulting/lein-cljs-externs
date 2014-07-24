@@ -1,4 +1,4 @@
-(defproject cljs-externs "0.1.0-SNAPSHOT"
+(defproject lein-cljs-externs "0.1.0"
   :description "Generate js externs from cljs metadata"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
