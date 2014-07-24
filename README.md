@@ -19,7 +19,7 @@ And that's where the lein-cljs-externs plugin will help.  Instead of handcoding 
 
 1. Put
 
-[![Current Version](https://clojars.org/lein-cljs-externs/latest-version.svg)](https://clojars.org/lein-cljs-externs)
+[![Clojars Project](http://clojars.org/lein-cljs-externs/latest-version.svg)](http://clojars.org/lein-cljs-externs)
 
 into the `:plugins` vector of your project.clj.
 
